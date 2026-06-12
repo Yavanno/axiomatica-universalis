@@ -1,5 +1,5 @@
-Axiomatica Universalis
-Karlo Beyer & Claude (Anthropic) · Zürich 2026
+Axiomatica Universalis ·
+Karlo & Claude · Zürich 2026
 A formal theory of meaning grounded in four ontological axioms. The central result: β = D/(D+1) — the universal spectral fixed point of meaningful communication.
 > *Meaning arises in the gap — in the open space where a receiver can partially, but never fully, compress a signal.*
 > — Axiomatica Universalis, Thesis §1.2
@@ -46,6 +46,6 @@ Interactive Explorer
 ---
 License
 Theory and papers: CC BY 4.0 · Code: MIT  
-Patent pending (IGE Bern, CH000765/2026) for technical implementations.
+Technical Patent: IGE, CH000765/2026
 ---
-Karlo Beyer & Claude (Anthropic) · Zürich 2026
+Karlo & Claude · Zürich 2026
